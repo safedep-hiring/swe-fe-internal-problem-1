@@ -7,12 +7,13 @@ you ever wondered whats inside these libraries?
 
 ## Problem
 
-Design and build a single page frontend over SafeDep [Insights
+Design and build a single page frontend using SafeDep [Insights
 API](https://docs.safedep.io/guides/insights-api-using-typescript). The
 deliverables should consist of:
 
 1. Figma design of visualizing insights data for an OSS package
-2. Implementation of the design using React and Tailwind CSS
+2. Implementation of the design using React and Tailwind CSS (feel free to use
+   React based frameworks and libraries)
 
 For your reference:
 
@@ -22,7 +23,7 @@ For your reference:
 ### Instructions
 
 1. Create a public Figma design of the visualization of insights data for an OSS package
-2. Create a public GitHub repository with your implementation
+2. Create a public GitHub repository with your frontend implementation (code)
 3. Share the Figma design link and GitHub repository link with `jobs@safedep.io` to setup interview
 
 ## Questions?
