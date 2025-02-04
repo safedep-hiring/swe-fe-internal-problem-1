@@ -35,10 +35,10 @@ async function main() {
   const res = await client.getPackageVersionInsight({
     packageVersion: {
       package: {
-        ecosystem: Ecosystem.NPM,
-        name: "express",
+        ecosystem: Ecosystem.GO,
+        name: "github.com/safedep/vet",
       },
-      version: "4.10.5"
+      version: "v1.8.9"
     }
   })
 
